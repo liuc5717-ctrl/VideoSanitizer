@@ -1,0 +1,16 @@
+# Automated Video De-duplication & Batch Sanitizer Tool
+# ---------------------------------------------------------------------------
+# This tool uses ONLY the Python standard library.
+# There are intentionally no pip dependencies to install.
+#
+# The only external requirement is the FFmpeg binary suite
+# (ffmpeg + ffprobe), which is NOT a Python package and must be
+# installed separately. See README.md for Windows / macOS instructions.
+#
+# If you are packaging with PyInstaller, it is also a standard-library-
+# only build:
+#   pip install pyinstaller
+# That line is commented out below so a plain `pip install -r
+# requirements.txt` does not pull in build tooling by accident.
+#
+# pyinstaller>=6.0
