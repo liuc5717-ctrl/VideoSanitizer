@@ -3,7 +3,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%20x64-blue.svg)](https://github.com/liuc5717-ctrl/VideoSanitizer)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-green.svg)](https://python.org)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-5.0%2B-orange.svg)](https://ffmpeg.org)
-[![Gumroad Full Bundle](https://img.shields.io/badge/Gumroad-Download%20Full%20Bundle-ff385c.svg?style=for-the-badge&logo=gumroad)](https://gumroad.com)
+[![Gumroad Full Bundle](https://img.shields.io/badge/Gumroad-Download%20Full%20Bundle-ff385c.svg?style=for-the-badge&logo=gumroad)](https://harrisonstudio4.gumroad.com/l/videosanitizer)
 
 A high-performance, deterministic media engineering pipeline designed for cross-platform video syndication, container sanitization, and cryptographic/perceptual deduplication. Powered by native Python and FFmpeg filtergraphs.
 
@@ -32,7 +32,7 @@ A high-performance, deterministic media engineering pipeline designed for cross-
 | **v1.1 Hardening Patchbook** | Manual Implementation | **Pre-applied Source & Scripts** |
 | **Docker / Headless VPS Script** | No | **Included (`Appendix A`)** |
 
-👉 **[Get the Zero-Install Executable, Pre-compiled Binaries & Full Handbook on Gumroad](https://gumroad.com)**
+👉 **[Get the Zero-Install Executable, Pre-compiled Binaries & Full Handbook on Gumroad](https://harrisonstudio4.gumroad.com/l/videosanitizer)**
 
 ---
 
